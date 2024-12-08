@@ -34,5 +34,7 @@ This project is a React-based web application featuring **Sign Up** and **Login*
 
 ### Steps
 
-1. **Clone the Repository**:
+1. **Clone the Repository**
+2. **Install Dependencies**
+3. **npm start**:
   
